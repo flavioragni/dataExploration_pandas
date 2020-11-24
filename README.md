@@ -6,7 +6,7 @@ restingState_fMRIexp folder contains:
 
 1)rs_project_behavioral_data.ipynb - Vividness ratings data exploration
 
-2)rs_project_correlationsVividnessRatings.ipynb - Exploring correlation between vividness ratings and decoding accuracy within different ROIs
+2)rs_project_correlationsVividnessRatings.ipynb - Exploring correlation between vividness ratings and decoding accuracy within different ROIs (updated with correlation with vividness splitted between faces and places)
 
 3)rs_project_mc.ipynb - Motion outliers detector, runwise exploration
 
