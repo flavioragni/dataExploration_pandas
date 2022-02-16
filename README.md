@@ -11,3 +11,5 @@ restingState_fMRIexp folder contains:
 3)rs_project_mc.ipynb - Motion outliers detector, runwise exploration
 
 4)rs_project_plot_ROIbasedMVPA_identitySplit.ipynb - Computes identity decoding accuracy separately for familiar and unfamiiar stimuli
+
+fr 2021-11-24
